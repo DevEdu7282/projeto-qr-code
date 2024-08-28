@@ -35,5 +35,6 @@ main h2{
 }
 main p{
     color: var(--color-secundary);
+    font-size: 16px;
     text-align: center;
 }
