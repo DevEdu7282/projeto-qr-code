@@ -4,22 +4,21 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ## Índice
 
-- [Visão geral](#visão-geral)
-  - [Captura de tela](#captura-de-tela)
+- [Visão geral proposta](#visão-geral-proposta)
+  - [Captura de tela do projeto feito](#captura-de-tela-do-projeto-feito)
   - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Construído Com](#construido-com)
 - [Autor](#autor)
 
-## Visão geral
+## Visão geral Proposta
 
-Web
 ![](assets/design/desktop-design.jpg)
 
 Mobile
 ![](assets/design/desktop-design.jpg)
 
-### Captura de tela
+### Captura de tela do projeto feito
 
 ![](assets/design/imagem-qr-web.png)
 ![](assets/design/imagem-qr-mobile.PNG)
@@ -27,7 +26,7 @@ Mobile
 ### Links
 
 - URL da solução: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
-- URL do Site ao Vivo: ....
+- URL do Site ao Vivo: https://projeto-qr-code-o0vzf4st7-devedu7282s-projects.vercel.app
 
 ## Meu processo
 
@@ -40,5 +39,5 @@ Mobile
 
 ## Autor
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile yourusername)
+- Website - ....
+- Frontend Mentor - [@DevEdu7282] https://www.frontendmentor.io/profile/DevEdu7282
