@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root{
+    /*CORES*/
+    --color-white: hsl(0, 0%, 100%);
+    --color-fundo: hsl(212, 45%, 89%);
+    --color-primary: hsl(218, 44%, 22%);
+    --color-sencundary: hsl(216, 15%, 48%);
+
+    /*FONTES*/
+    --font-outfit: "Outfit";
+    --font-padrao: sans-serif;
+}

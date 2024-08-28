@@ -1,0 +1,39 @@
+@import url(variaves.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--color-fundo);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    background: var(--color-white);
+    padding: 16px 16px 40px 16px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
+main img{
+    height: 288px;
+    border-radius: 10px;
+}
+main h2{
+    color: var(--color-primary);
+    font-family: var(--font-outfit, --font-padrao);
+    font-size: 22px;
+    margin: 23px 0 16px 0;
+    text-align: center;
+}
+main p{
+    color: var(--color-secundary);
+    text-align: center;
+}
