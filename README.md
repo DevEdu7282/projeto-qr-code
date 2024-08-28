@@ -15,9 +15,6 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ![](assets/design/desktop-design.jpg)
 
-Mobile
-![](assets/design/desktop-design.jpg)
-
 ### Captura de tela do projeto feito
 
 ![](assets/design/imagem-qr-web.png)
